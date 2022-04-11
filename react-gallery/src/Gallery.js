@@ -28,7 +28,7 @@ export default function Gallery(){
         },
         {
             id: 1,
-            imgSrc: Img3,
+            imgSrc: Img6,
         },
         {
             id: 1,
@@ -40,7 +40,7 @@ export default function Gallery(){
         },
         {
             id: 1,
-            imgSrc: Img6,
+            imgSrc: Img3,
         },
         {
             id: 1,
